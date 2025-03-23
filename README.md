@@ -16,7 +16,7 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 |-----------------------------------------------|----------------------------|
 | Python automation         | <a href="https://google.com">Detection Lab</a>|
 | Networking | <a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
-| UnderPass CTF write-up         | SOC Automation Lab|
+| Penetration-testing         | SOC Automation Lab|
 | Security information and event management
 | Intrusion detection/prevention system
 | Linux & Kali Linux
