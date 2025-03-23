@@ -14,7 +14,7 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python automation         | <a href="https://google.com">Detection Lab</a>|
+| Python automation         | <a href="https://github.com/iliyan89/file-manager">File manager</a>|
 | Networking | <a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
 | Penetration-testing         | SOC Automation Lab|
 | Security information and event management
