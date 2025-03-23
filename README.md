@@ -16,7 +16,7 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 |-----------------------------------------------|----------------------------|
 | Python automation (File manager)         | <a href="https://google.com">Detection Lab</a>|
 | Small office/home office lab | <a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
-| Penetration-testing CTF write up         | SOC Automation Lab|
+| UnderPass CTF write-up         | SOC Automation Lab|
 | Security information and event management
 | Intrusion detection/prevention system
 | Linux & Kali Linux
@@ -55,4 +55,4 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 ## Projects
 - File manager (python automation)
 - Small office/home office lab
-- CTF write up
+- UnderPass CTF write-up
