@@ -4,6 +4,7 @@
 
 I am a recent cybersecurity graduate with interest in penetration-testing, ethical hacking, and networking.
 Recently I earned my Google Cybersecurity professional certificate and I am ready to begin my journey as a Security Analyst.
+I am currently on the path to CCNA 200-301 v1.1.
 
 ## Objective
 
@@ -38,6 +39,12 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
+</div>
+
+### General
+<div>
+    <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ## Certifications
