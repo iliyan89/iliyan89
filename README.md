@@ -53,6 +53,6 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 </div>
 
 ## Projects
-- File manager (python automation)
+- File manager
 - Small office/home office lab
 - UnderPass CTF write-up
