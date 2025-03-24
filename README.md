@@ -14,9 +14,9 @@ I am currently aimed at entry-level cybersecurity position, as I am still develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python automation         | <a href="https://github.com/iliyan89/file-manager">File manager</a>|
-| Networking | <a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
-| Penetration-testing         | SOC Automation Lab|
+| Python automation         |<a href="https://github.com/iliyan89/file-manager">File manager</a>|
+| Networking |<a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
+| Penetration-testing         |<a href="https://github.com/iliyan89/underpass-writeup">CTF write-up</a>|
 | Security information and event management
 | Intrusion detection/prevention system
 | Linux & Kali Linux
