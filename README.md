@@ -4,7 +4,7 @@
 
 
 I am a cybersecurity graduate with focus on security analysis, penetration-testing, and networking.
-Recently I earned my Google Cybersecurity professional certificate and I am ready to begin my journey as a Security Analyst.
+Recently I earned my Google Cybersecurity professional certificate and I am ready to begin my journey as a security analyst.
 I am currently on the path to CCNA 200-301 v1.1.
 
 ## Objective
