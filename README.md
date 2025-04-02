@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/iliyan-iliev-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent cybersecurity graduate with interest in penetration-testing, ethical hacking, and networking.
+I am a recent cybersecurity graduate with interest in security analysis, penetration-testing, and networking.
 Recently I earned my Google Cybersecurity professional certificate and I am ready to begin my journey as a Security Analyst.
 I am currently on the path to CCNA 200-301 v1.1.
 
