@@ -1,5 +1,6 @@
 # Hello, I'm Iliyan
 <a href="https://www.linkedin.com/in/iliyan-iliev-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://app.hackthebox.com/profile/overview"><img src="https://img.shields.io/badge/-HackTheBox-28B138?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 
 
 I am a cybersecurity graduate with focus on security analysis, penetration-testing, and networking.
