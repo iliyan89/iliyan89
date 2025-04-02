@@ -9,7 +9,7 @@ I am currently on the path to CCNA 200-301 v1.1.
 
 ## Objective
 
-I am currently aimed at entry-level cybersecurity position, as I am still developing my skills in information technology.
+I am currently aimed at entry-level cybersecurity position, or a position I can be a good fit for as I am still developing my skills in information technology.
 
 ## Skills
 
