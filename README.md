@@ -44,6 +44,12 @@ I am currently aimed at entry-level cybersecurity position.
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
 </div>
 
+### Virtual Machines
+<div>
+  <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</div>
+
 ### General
 <div>
     <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
