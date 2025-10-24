@@ -50,6 +50,12 @@ I am currently aimed at entry-level cybersecurity position.
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </div>
 
+### Operating Systems
+<div>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</div>
+
 ### General
 <div>
     <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
