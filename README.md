@@ -3,9 +3,7 @@
 <a href="https://app.hackthebox.com/profile/overview"><img src="https://img.shields.io/badge/-HackTheBox-28B138?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 
 
-I am a cybersecurity graduate with focus on security analysis, penetration-testing, and networking.
-Recently I earned my Google Cybersecurity professional certificate and I am ready to begin my journey as a security analyst.
-I am currently on the path to CCNA 200-301 v1.1.
+I am a Cybersecurity graduate with focus on Network engineering, Security analysis and Penetration-testing.
 
 ## Objective
 
