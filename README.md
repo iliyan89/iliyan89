@@ -9,7 +9,7 @@ I am a cybersecurity graduate with focus on network engineering, security analys
 
 ## Objective
 
-I am currently aimed at entry-level cybersecurity position.
+I am currently aimed at entry-level IT or cybersecurity position.
 
 ## Skills
 
