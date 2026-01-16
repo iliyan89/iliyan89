@@ -1,6 +1,6 @@
 # Hello, I'm Iliyan
 <a href="https://www.linkedin.com/in/iliyan-iliev-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://app.hackthebox.com/profile/overview"><img src="https://img.shields.io/badge/-HackTheBox-28B138?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
+<a href="https://app.hackthebox.com/public/users/1604855"><img src="https://img.shields.io/badge/-HackTheBox-28B138?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 <a href="https://tryhackme.com/p/blandwhich" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
 </a>
