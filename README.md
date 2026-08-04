@@ -5,40 +5,31 @@
   <img src="https://img.shields.io/badge/-TryHackMe-red?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
 </a>
 
-I am a cybersecurity graduate with focus on network engineering, security analysis and penetration-testing.
+I am a cybersecurity graduate with focus on penetration-testing.
 
 ## Objective
 
-I am currently aimed at entry-level IT or cybersecurity position.
+I am currently aimed at an entry-level penetration testing role.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python automation         |<a href="https://github.com/iliyan89/file-manager">File manager</a>|
-| Networking |<a href="https://github.com/iliyan89/soho-lab">SOHO lab</a>|
 | Penetration-testing         |<a href="https://github.com/iliyan89/underpass-writeup">CTF write-up</a>|
-| Security information and event management
-| Intrusion detection/prevention system
-| Linux & Kali Linux
+| Kali Linux
+
+[comment]: <> (In skills add: Web app pentest, infrastructure, etc.. with Reports)
 
 ## Tools
 
-### Networking
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-007ec6?&style=for-the-badge&logoColor=white" alt="tcpdump" />
-</a>
+[comment]: <> (Burp Suite, Nmap, Wireshark, etc.)
 
-</div>
-
-### Penetration-testing
+### Web application
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
-### SIEM
+### Infrastructure
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
@@ -56,7 +47,7 @@ I am currently aimed at entry-level IT or cybersecurity position.
   <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
-### General
+### Languages, etc..
 <div>
     <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
@@ -68,8 +59,8 @@ I am currently aimed at entry-level IT or cybersecurity position.
 </div>
 
 ## Projects
-- File manager
-- Small office/home office lab
-- UnderPass CTF write-up
+- Lab #1
+- #2
+- #3..
 
 
