@@ -1,4 +1,4 @@
-# Hello, I'm Iliyan (in progress)
+# Hello, I'm Iliyan (profile in progress..)
 <a href="https://www.linkedin.com/in/iliyan-iliev-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://app.hackthebox.com/public/users/1604855"><img src="https://img.shields.io/badge/-HackTheBox-28B138?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 <a href="https://tryhackme.com/p/blandwhich" target="_blank" rel="noopener">
@@ -31,8 +31,8 @@ I am currently aimed at an entry-level penetration testing role.
 
 ### Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
+[comment]: <> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+[comment]: <> <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
 </div>
 
 ### Virtual Machines
@@ -47,7 +47,7 @@ I am currently aimed at an entry-level penetration testing role.
   <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
-### Languages, etc..
+### Languages
 <div>
     <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
