@@ -30,10 +30,7 @@ I am currently aimed at an entry-level penetration testing role.
 </div>
 
 ### Infrastructure
-<div>
-[comment]: <> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-[comment]: <> <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=googlechronicle&logoColor=white" />
-</div>
+
 
 ### Virtual Machines
 <div>
